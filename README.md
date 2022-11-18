@@ -35,12 +35,12 @@ The loss function and accuracy rate are used to evaluate the classification effe
 
 As seen from the figure below, compared with the distribution of the MNIST Dataset (left), the distribution of images in the SVHN Dataset (right) is more scattered and does not have apparent aggregation, indicating that the recognition of SVHN street view numbers is much more complex than MNIST.
 
-
+<img src="https://github.com/supergirl-os/SVHN-Digit-Classification/raw/main/data.png" alt="Aaron Swartz" style="zoom:80%;" />
 
 Figure 1 Visualize image distribution using PCA. 
 
 ## Experiment Result
 
-
+![Aaron Swartz](https://github.com/supergirl-os/SVHN-Digit-Classification/raw/main/res.png)
 
 Figure 2 Loss and accuracy when L=4, Epoch=50, alpha=0.1
